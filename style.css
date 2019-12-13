@@ -1,0 +1,25 @@
+body {
+    background: #cccccc;
+}
+
+.mainHeader {
+    color: tomato;
+}
+
+.sectionHeader {
+    color: blue;
+    background-color: beige;
+}
+
+.diaryHeader {
+    color: brown;
+}
+
+.pContent {
+    color: darkslategrey;
+}
+
+.pFooter {
+    font-size: 10px;
+    color: darkred;
+}
